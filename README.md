@@ -1,2 +1,2 @@
-# Kaggle-Projects
-My kaggle notebooks
+# Kaggle Projects
+Eventually it will be full of my work, hopefully...
