@@ -1,2 +1,3 @@
 # Kaggle Projects
 Eventually it will be full of my work, hopefully...
+[kaggle link](kaggle.com/yaustal)
